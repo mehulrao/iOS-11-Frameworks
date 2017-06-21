@@ -1,0 +1,6 @@
+(allow mach-lookup
+    (global-name "com.apple.spotlight.IndexAgent"))
+
+(if (entitlement "com.apple.spotlight.search")
+    (begin
+       (allow mach-lookup (global-name "com.apple.spotlight.SearchAgent"))))

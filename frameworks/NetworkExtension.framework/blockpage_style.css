@@ -1,0 +1,149 @@
+body 
+{
+    font-family: HelveticaNeue-Light, HelveticaNeue, Helvetica;
+    /*font-weight: 100;*/
+    font-size: 16px;
+    margin: 0;
+    padding-top: 123px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+#title
+{
+    font-size: 21px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 20px;
+    display: none;
+}
+
+#text
+{
+    line-height: 21px;
+    color: rgb(163, 163, 163);
+}
+
+#unblock
+{
+    padding-top: 71px;
+    background-color: rgb(3, 168, 251);
+    background-image: -webkit-linear-gradient(rgb(9, 128, 229), rgb(3, 168, 251));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+/* ====Orientation specific style overrides ==== */
+@media only screen
+and (orientation : landscape)
+{
+    #unblock
+    {
+        padding-top: 40px;
+    }
+}
+/* ==== Device specific style overrides ==== */
+@media only screen
+and (orientation : landscape)
+{
+    #unblock
+    {
+        padding-top: 40px;
+    }
+}
+
+/* iPhone (landscape and portrait) */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+{
+}
+
+/* iPhone (portrait) */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : portrait)
+{
+}
+
+/* iPhone (landscape) */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : landscape)
+{
+    body
+    {
+        padding-top: 50px;
+    }
+}
+
+/* iPhone 5 (landscape and portrait) */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+{
+}
+
+/* iPhone 5 (portrait) */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait)
+{
+}
+/* iPhone 5 (landscape) */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : landscape)
+{
+    body
+    {
+        padding-top: 50px;
+    }
+}
+/* iPads (portrait and landscape) */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+{
+    body
+    {
+        padding-top: 290px;
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    #title
+    {
+        display: block;
+    }
+
+    br
+    {
+        display: none;
+    }
+
+    #unblock
+    {
+        /*padding-top: 40px;*/
+        font-size: 19px; /* a bit smaller than #title */
+    }
+}
+
+/* iPads (landscape) */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape)
+{
+}
+
+/* iPads (portrait) */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait)
+{
+}

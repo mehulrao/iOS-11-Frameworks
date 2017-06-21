@@ -1,0 +1,54 @@
+/*
+	Copyright (C) 2016 Apple Inc. All Rights Reserved.
+
+	For component IDs, see <https://awdwiki.apple.com/metricpedia/home/index#/metrics/components>.
+	For metric IDs,    see <https://awd.apple.com/metricpedia/home/index#/metrics/list>.
+	Component and Metric IDs must be kept in sync with MetricLog.proto.
+	
+	Component ID
+	
+		0x53		MultipeerConnectivity
+	
+	Metric IDs:
+	
+		0x530001	MultipeerSessionMaxPeersInfo
+		0x530002	MultipeerSessionPeerConnectivityInfo
+		
+*/
+
+import "AwdOptions.proto";
+
+package awd.metrics;
+
+option java_package			= "com.apple.awd.metrics";
+option java_outer_classname	= "CCMetricsSharingSerializer";
+option optimize_for			= CODE_SIZE;
+
+//===========================================================================================================================
+//	MultipeerConnectivity
+//===========================================================================================================================
+
+// Message for maximum number of peers in a session.
+message MultipeerSessionMaxPeersInfo
+{
+	optional uint64		timestamp					=  1 [(metaType)="timestamp"]; // AWD Timestamp in milliseconds when the metric is logged.
+	optional string		sessionID					=  2; // First 6 bytes of a random session UUID string.
+	optional string		bundleID					=  3; // Bundle identifier of the sending application. 
+	optional uint32		maxPeersCount				=  4; // Maximum number of peers in the session.
+}
+
+// Message for peer connectivity info.
+message MultipeerSessionPeerConnectivityInfo
+{
+	optional uint64		timestamp					=  1 [(metaType)="timestamp"]; // AWD Timestamp in milliseconds when the metric is logged.
+	optional string		sessionID					=  2; // First 6 bytes of a random session UUID string.
+	optional uint32		interfaceType				=  3; // Interface type. 
+	optional uint64		timeICE						=  4; // ICE time.
+	optional uint64		timeDTLS					=  5; // DTLS time.
+	optional uint64		timeOSPF					=  6; // OSPF time.
+	optional uint64		timeAll						=  7; // Total connection establishment time.
+	optional int32		channelPriority				=  8; // Channel priority.
+	optional bool		authentication				=  9; // Authentication enabled.
+	optional bool		remoteAuthentication		= 10; // Remote has authentication enabled.
+	optional bool		encryption					= 11; // Encryption enabled.
+}

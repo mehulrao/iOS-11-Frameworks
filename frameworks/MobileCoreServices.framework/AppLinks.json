@@ -1,0 +1,14 @@
+{
+	"example.apple.com" :
+	[{
+		"appID" : "com.apple.ExampleApplication",
+		"details" : {
+			"paths" : [
+				"/path/to/exact/match/",
+				"/path/to/prefix*",
+				"/path/to/anything/in/folder/*"
+			]
+		},
+		"flags" : 2
+	}]
+}
