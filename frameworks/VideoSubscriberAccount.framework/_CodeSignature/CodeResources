@@ -10,19 +10,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ecawnA6tMPyCVxs37xgnogIPyuY=
+			O6EnJRTSBxZ3SrGVuEkDhKIDz/M=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"79c6b09c0ead30fc82571b37ef1827a2020fcae6"</string>
+			<string>cdhash H"3ba1272514d20716774ab195b8490384a203cff3"</string>
 		</dict>
 		<key>XPCServices/com.apple.VideoSubscriberAccount.PrivacyService.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Hk/alOznvmxmvwuj/th5QRD/iAs=
+			LOYvCQ7J80Mrnc82C6fGJFAIDVo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"1e4fda94ece7be6c66bf0ba3fed8794110ff880b"</string>
+			<string>cdhash H"2ce62f090ec9f3432b9dcf360ba7c62450080d5a"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

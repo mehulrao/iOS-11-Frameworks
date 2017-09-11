@@ -10,19 +10,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sBCm3U8BzDKp24hLeExlvPKppwo=
+			f0eqZDjTr9l0fHE45BmSdSOpsyo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b010a6dd4f01cc32a9db884b784c65bcf2a9a70a"</string>
+			<string>cdhash H"7f47aa6438d3afd9747c7138e419927523a9b32a"</string>
 		</dict>
 		<key>PlugIns/RPVideoEditorExtension.appex</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			U4O6+r+MqZ/HpvZdtrJzRtP24Cs=
+			agNxvRT/HAJNoCcCSHzGXE0qlJI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"5383bafabf8ca99fc7a6f65db6b27346d3f6e02b"</string>
+			<string>cdhash H"6a0371bd14ff1c024da02702487cc65c4d2a9492"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

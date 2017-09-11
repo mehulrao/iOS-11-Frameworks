@@ -10,28 +10,28 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			iOgXO+0iuWhKHvTbasC/vZSIplQ=
+			dqrb2fN5ennI6MNMLHhRrQiFAn0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"88e8173bed22b9684a1ef4db6ac0bfbd9488a654"</string>
+			<string>cdhash H"76aadbd9f3797a79c8e8c34c2c7851ad0885027d"</string>
 		</dict>
 		<key>PlugIns/PassKitIntentsExtension.appex</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ikrj7RdclEdYAxMe6eiogeiEYTU=
+			T7qGcBF7lfikkf2DrAh2iYXrg0c=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"8a4ae3ed175c94475803131ee9e8a881e8846135"</string>
+			<string>cdhash H"4fba8670117b95f8a491fd83ac08768985eb8347"</string>
 		</dict>
 		<key>PlugIns/PassKitIntentsUIExtension.appex</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			vjES2lvBFsWtG3yImYJr76yyPgk=
+			DwPkJr668312K0dRoiVOcUl0Cow=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"be3112da5bc116c5ad1b7c8899826befacb23e09"</string>
+			<string>cdhash H"0f03e426bebaf37d762b4751a2254e7149740a8c"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

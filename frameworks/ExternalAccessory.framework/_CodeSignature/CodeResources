@@ -10,19 +10,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			V2TmPOofxpVGy+ripw1uaHoTXrU=
+			k4YvhS57QYpVujtGhbGVUP3ZOdo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"5764e63cea1fc69546cbeae2a70d6e687a135eb5"</string>
+			<string>cdhash H"93862f852e7b418a55ba3b4685b19550fdd939da"</string>
 		</dict>
 		<key>PlugIns/com.apple.ExternalAccessory.WACUI.appex</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			6XWFGJR7SbpDlOwiQ2Oiant38LU=
+			2bB/2+LngcLtvOhiQ6YBb35evk8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"e9758518947b49ba4394ec224363a26a7b77f0b5"</string>
+			<string>cdhash H"d9b07fdbe2e781c2edbce86243a6016f7e5ebe4f"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

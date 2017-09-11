@@ -10,28 +10,28 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			C/bMB2j6szgIYrMnmJVM+60TAPM=
+			K53O/NmmAYJy4VkAdYNqd3ffG3E=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0bf6cc0768fab3380862b32798954cfbad1300f3"</string>
+			<string>cdhash H"2b9dcefcd9a6018272e1590075836a7777df1b71"</string>
 		</dict>
 		<key>XPCServices/com.apple.WebKit.Networking.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rgUejUkxSCjG2sIbDE2PLIYBpSI=
+			C/hhfdKMVbx9xKD+vv0Z+nBvKTM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ae051e8d49314828c6dac21b0c4d8f2c8601a522"</string>
+			<string>cdhash H"0bf8617dd28c55bc7dc4a0febefd19fa706f2933"</string>
 		</dict>
 		<key>XPCServices/com.apple.WebKit.WebContent.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SCSLDwtsbKYzkRUs7EkjrCybMz0=
+			D/j/42J1EEymlH+1Hrw6+v28SI8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"48248b0f0b6c6ca63391152cec4923ac2c9b333d"</string>
+			<string>cdhash H"0ff8ffe36275104ca6947fb51ebc3afafdbc488f"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

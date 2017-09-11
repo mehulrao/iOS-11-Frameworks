@@ -10,37 +10,37 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			tsoWOQ5nkxuhHnRzZa9ebwuD+OM=
+			4FrpOAFQDy7NxHbAuIiVdTqoSFQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b6ca16390e67931ba11e747365af5e6f0b83f8e3"</string>
+			<string>cdhash H"e05ae93801500f2ecdc476c0b88895753aa84854"</string>
 		</dict>
 		<key>XPCServices/com.apple.tencentweibo.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hkbh+hS4bbbhROa/KYXpdjvcGyk=
+			GkRlGV2giZg60EfaZPTqfBCN0Mw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"8646e1fa14b86db6e144e6bf2985e9763bdc1b29"</string>
+			<string>cdhash H"1a4465195da089983ad047da64f4ea7c108dd0cc"</string>
 		</dict>
 		<key>XPCServices/com.apple.twitter.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			tfoO+MQ6nAR6unPktFiV60vPImU=
+			BNfWxbxOSuRmB8Sova7nFU13gH0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b5fa0ef8c43a9c047aba73e4b45895eb4bcf2265"</string>
+			<string>cdhash H"04d7d6c5bc4e4ae46607c4a8bdaee7154d77807d"</string>
 		</dict>
 		<key>XPCServices/com.apple.weibo.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2Chd0Y1EdKqN2JWs+UWRUun9zeQ=
+			6PzdF4GMs72WJokKNHSAbo3xg9k=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d8285dd18d4474aa8dd895acf9459152e9fdcde4"</string>
+			<string>cdhash H"e8fcdd17818cb3bd9626890a3474806e8df183d9"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

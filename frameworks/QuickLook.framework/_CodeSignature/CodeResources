@@ -10,19 +10,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			oYTEmHalZvz2vkB7wbTPJp0BdoE=
+			QHxtoKxAzuau/Qyo+8Zx/ikk44M=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a184c49876a566fcf6be407bc1b4cf269d017681"</string>
+			<string>cdhash H"407c6da0ac40cee6aefd0ca8fbc671fe2924e383"</string>
 		</dict>
 		<key>PlugIns/com.apple.quicklook.extension.previewUI.appex</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			VEti0u+fMkbsRY2ZrvjS+uZwT6g=
+			ka2SLJCgmRV1S/dpHpEWD75BsTs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"544b62d2ef9f3246ec458d99aef8d2fae6704fa8"</string>
+			<string>cdhash H"91ad922c90a09915754bf7691e91160fbe41b13b"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

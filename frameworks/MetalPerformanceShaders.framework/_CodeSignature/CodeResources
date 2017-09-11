@@ -10,37 +10,37 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			aIMuRlZVkMTCf5E/EzuWUXH0qD4=
+			XtPSdnn/LjebqlBXINzGv/hi2H0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"68832e46565590c4c27f913f133b965171f4a83e"</string>
+			<string>cdhash H"5ed3d27679ff2e379baa505720dcc6bff862d87d"</string>
 		</dict>
 		<key>Frameworks/MPSImage.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JvSPDb2eixYNNHU4wdhexk7ui6M=
+			7um9kPVJXlTsjcuEzLrAlVIexyM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"26f48f0dbd9e8b160d347538c1d85ec64eee8ba3"</string>
+			<string>cdhash H"eee9bd90f5495e54ec8dcb84ccbac095521ec723"</string>
 		</dict>
 		<key>Frameworks/MPSMatrix.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Wc0wU1wBNIEli9VvLZf74SYijRo=
+			ZADZ+yJtib/A6O7mCmzy8wxKjrQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"59cd30535c013481258bd56f2d97fbe126228d1a"</string>
+			<string>cdhash H"6400d9fb226d89bfc0e8eee60a6cf2f30c4a8eb4"</string>
 		</dict>
 		<key>Frameworks/MPSNeuralNetwork.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			q39C0gL4XuCmEwBwIEapsKjnlYI=
+			S9kZtzk3pRtljT53zzxMYGR7UBI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ab7f42d202f85ee0a61300702046a9b0a8e79582"</string>
+			<string>cdhash H"4bd919b73937a51b658d3e77cf3c4c60647b5012"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

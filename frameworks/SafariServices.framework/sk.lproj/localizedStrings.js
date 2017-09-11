@@ -1,6 +1,6 @@
 var localizedStrings = new Object;
 
-localizedStrings["Loading Next Page..."] = "Načítava sa ďalšia stránka…";
+localizedStrings["Loading Next Page..."] = "Načítavam ďalšiu stránku…";
 localizedStrings["Page %@"] = "Stránka %@";
 localizedStrings["Page %@ of %@"] = "Stránka %@ z %@";
 localizedStrings["Connect to the Internet to view remaining pages."] = "Pre zobrazenie zvyšných stránok sa pripojte na internet.";

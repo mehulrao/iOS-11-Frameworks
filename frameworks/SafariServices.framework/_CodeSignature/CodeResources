@@ -10,19 +10,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hCyHDM19rfjVuMqoV8aAEwwfw2U=
+			sWfXqdDJJ5kCjf5ZO40m9Epi3gE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"842c870ccd7dadf8d5b8caa857c680130c1fc365"</string>
+			<string>cdhash H"b167d7a9d0c92799028dfe593b8d26f44a62de01"</string>
 		</dict>
 		<key>XPCServices/com.apple.SafariServices.ContentBlockerLoader.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			u7GPhiKM7obMhDKClWTGTSHHAKM=
+			jj/TMW15DUrdZztiyzn9Y8+7MTE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"bbb18f86228cee86cc8432829564c64d21c700a3"</string>
+			<string>cdhash H"8e3fd3316d790d4add673b62cb39fd63cfbb3131"</string>
 		</dict>
 	</dict>
 	<key>rules</key>
